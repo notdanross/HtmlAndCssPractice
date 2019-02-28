@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+
+}
+
+nav {
+    background-color: khaki;
+    padding: 1.5rem;
+}
+
+nav ul li {
+    display: inline;
+    margin: 1.5rem;
+    color: whitesmoke
+}
+
+section{
+    background-color: coral;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+FOOTER {
+    PADDING: 25px;
+}
