@@ -4,8 +4,9 @@ body {
 }
 
 nav {
-    background-color: khaki;
+    background-color: rgb(201, 157, 64);
     padding: 1.5rem;
+    border-bottom: 1px solid black
 }
 
 nav ul li {
@@ -15,11 +16,15 @@ nav ul li {
 }
 
 section{
-    background-color: coral;
-    width: 80vw;
+    background-color:rgb(201, 203, 237);
+    border: 1px solid black;
     margin: 0 auto;
+    padding: 1rem;
 }
 
 FOOTER {
-    PADDING: 25px;
+    background-color: rgb(218, 237, 201);
+    border-top: 1px solid black;
+    padding: 1.5rem;
+    margin-top: 1rem;
 }
