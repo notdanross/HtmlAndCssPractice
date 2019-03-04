@@ -1,5 +1,5 @@
 body{font: 1em/150% Helvetica, Arial, sans-serif; 
-    padding: 1em;
+    padding: 1em 0em 0em 0em; 
     margin: 0 auto;
     max-width: 40em;
 }
@@ -16,9 +16,11 @@ nav {
 
 nav ul li {
     display: inline;
-    margin: 1.5rem;
-    color: whitesmoke
+    justify-content: center;
+    margin: 1.5em;
+    color: whitesmoke;
 }
+
 
 section{
     background-color:rgb(201, 203, 237);
@@ -34,6 +36,7 @@ footer {
     margin-top: 1rem;
 }
 
+/*This scales image to window size and prevents the image from becoming pixelated*/
 img{
     max-width: 100%;
     height: auto;
